@@ -13,9 +13,8 @@
 ## Find me around the web 🌎:
 
 
-
-- 🔭 I’m currently working on 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+ 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <i class="devicon-angularjs-plain-wordmark colored"></i>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <i class="devicon-bootstrap-plain-wordmark colored"></i>
