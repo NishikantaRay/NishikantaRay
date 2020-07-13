@@ -16,43 +16,18 @@
 
 - 🔭 I’m currently working on 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-angularjs-plain-wordmark colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-atom-original-wordmark"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-bootstrap-plain-wordmark colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-c-plain-wordmark colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-cplusplus-plain colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-css3-plain-wordmark colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-github-plain colored"></i>
-<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
-<!-- in your body -->
 <i class="devicon-javascript-plain colored"></i>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
