@@ -1,6 +1,6 @@
 <h1 style="color="yellow"">#HELLO WORLD💻
 </h1>
- <h4>
+ <h4  align="center">
             I'm  Nishikanta currently a First year ECE student at Silicon Institute of Technology and aspiring web developer 
                               Intrested in working on frontend ,API's,Javascript,AngularJs,Bootstrap4 etc.
 </h4>
