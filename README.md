@@ -1,4 +1,4 @@
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 <h1 style="color="yellow"">#HELLO WORLD💻
 </h1>
  <h2 align="center">
@@ -39,3 +39,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
