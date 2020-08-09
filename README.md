@@ -41,4 +41,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
 https://n.nishikantaray.workers.dev/<br>
-http://nishikantaray.ml/
+http://nishikantaray.ml/<br>
+https://mydhenkanal.000webhostapp.com/jungle/jungleview.html
