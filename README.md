@@ -40,4 +40,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
-https://n.nishikantaray.workers.dev/
+https://n.nishikantaray.workers.dev/<br>
+http://nishikantaray.ml/
