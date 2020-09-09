@@ -43,3 +43,4 @@
 https://n.nishikantaray.workers.dev/<br>
 http://nishikantaray.ml/<br>
 https://mydhenkanal.000webhostapp.com/jungle/jungleview.html
+nishikanta.xyz
