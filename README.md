@@ -46,5 +46,5 @@
 //http://nishikantaray.ml/<br>
 //https://mydhenkanal.000webhostapp.com/jungle/jungleview.html
 //nishikanta.xyz
-//nishikantaray.xyz
+/*nishikantaray.xyz/*
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NishikantaRay&count_private=true&show_icons=true&title_color=333&icon_color=333)
