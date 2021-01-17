@@ -1,6 +1,7 @@
 
 <h1 style="color="yellow"">#HELLO WORLD💻
 </h1>
+<img src="https://komarev.com/ghpvc/?username=NishikantaRay">  
  <h2 align="center">
             I'm  Nishikanta currently a First year ECE student at Silicon Institute of Technology and aspiring web developer 
                               Intrested in working on frontend ,API's,Javascript,Angular CLI,Bootstrap4 etc.
