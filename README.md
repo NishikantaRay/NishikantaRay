@@ -1,5 +1,5 @@
 
-<h1 style="color="yellow"">#HELLO WORLD💻
+<h1 style="color="yellow"">console.log("#HELLO WORLD💻");
 </h1>
 <img src="https://komarev.com/ghpvc/?username=NishikantaRay">  
  <h2 align="center">
