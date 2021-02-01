@@ -49,4 +49,4 @@
 //nishikanta.xyz
 /*nishikantaray.xyz/-->
 <!--- This is an HTML comment in Markdown -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=NishikantaRay&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-readme-stats.vercel.app/api?username=NishikantaRay&count_public=true&show_icons=true&title_color=333&icon_color=333)
