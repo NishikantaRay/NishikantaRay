@@ -6,7 +6,7 @@
             I'm  Nishikanta currently a First year ECE student at Silicon Institute of Technology and aspiring web developer 
                               Intrested in working on frontend ,API's,Javascript,Angular CLI,Bootstrap4 and Nodejs etc.
 </h2>
-# Top Languages
+<h2> Top Languages</h2>
  <p align="center"> 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=NishikantaRay&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
 </p>
@@ -52,4 +52,6 @@
 //nishikanta.xyz
 /*nishikantaray.xyz/-->
 <!--- This is an HTML comment in Markdown -->
+<p align="center"> 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NishikantaRay&count_private=true&show_icons=true&title_color=333&icon_color=333)
+ </p>
