@@ -53,5 +53,5 @@
 /*nishikantaray.xyz/-->
 <!--- This is an HTML comment in Markdown -->
 <p align="center"> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NishikantaRay&count_private=true&show_icons=true&title_color=333&icon_color=333)
- </p>
+<img src="https://github-readme-stats.vercel.app/api?username=NishikantaRay&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</p>
