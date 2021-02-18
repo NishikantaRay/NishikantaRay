@@ -6,7 +6,7 @@
             I'm  Nishikanta currently a First year ECE student at Silicon Institute of Technology and aspiring web developer 
                               Intrested in working on frontend ,API's,Javascript,Angular CLI,Bootstrap4 and Nodejs etc.
 </h2>
-## Top Languages
+# Top Languages
  <p align="center"> 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=NishikantaRay&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
 </p>
