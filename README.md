@@ -1,11 +1,6 @@
 
-<h1 style="color="yellow"">Console.log("#HELLO WORLD💻");
-</h1>
-<img src="https://komarev.com/ghpvc/?username=NishikantaRay">  
- <h2 align="center">
-            I'm  Nishikanta currently a First year ECE student at Silicon Institute of Technology and aspiring web developer 
-                              Intrested in working on frontend ,API's,Javascript,Angular CLI,Bootstrap4 and Nodejs etc.
-</h2>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Nishikanta Ray 👨‍💻
+
 <h2> Top Languages</h2>
  <p align="center"> 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=NishikantaRay&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
