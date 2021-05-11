@@ -18,7 +18,7 @@ Here are a few things I've picked up along my learning journey.
  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
  
  <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" height="25"/>
+ [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/notes#web_development)
 <h2> Top Languages</h2>
  <p align="center"> 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=NishikantaRay&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
