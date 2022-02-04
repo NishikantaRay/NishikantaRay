@@ -1,7 +1,7 @@
 
 <a href = 'https://studytub.ml'>
  <div align="center">
-<img width="100%" height = "450px" src="https://raw.githubusercontent.com/NishikantaRay/Bootstrap-projects/main/image-port/Study%20Tub%20(1).png" alt="cover" />
+<img width="100%" height = "450px" src="https://github.com/NishikantaRay/Bootstrap-projects/blob/main/image-port/Studytub.png?raw=true" alt="cover" />
 </div>
 </a>
 <p align="center">
