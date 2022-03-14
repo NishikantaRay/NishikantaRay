@@ -1,5 +1,5 @@
 
-<a href = 'https://studytub.ml'>
+<a href = 'https://studytub.netlify.app/'>
  <div align="center">
 <img width="100%" height = "450px" src="https://github.com/NishikantaRay/Bootstrap-projects/blob/main/image-port/Studytub.png?raw=true" alt="cover" />
 </div>
