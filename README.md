@@ -4,9 +4,9 @@
 <img width="100%" height = "450px" src="https://github.com/NishikantaRay/Bootstrap-projects/blob/main/image-port/Studytub.png?raw=true" alt="cover" />
 </div>
 </a> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=18&center=true&width=398&height=51&lines=MEAN+STACK+%7C%7C+FRONTEND+%7C%7C+OPENSOURCE+;+First+Successful+Product+-+studytub.ml">
-</p>
+</p> -->
 <!-- <h3 align="left">Languages -</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
@@ -59,9 +59,9 @@
 </p> -->
 <hr>
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/nishikanta-ray-7786a0196/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://www.linkedin.com/in/nishikanta-ray-7786a0196/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nishikantaray1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/NishikantaRay5"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/NishikantaRay5"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> -->
 <br>
 </p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
