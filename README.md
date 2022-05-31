@@ -1,9 +1,9 @@
 
-<a href = 'https://studytub.netlify.app/'>
+<!-- <a href = 'https://studytub.netlify.app/'>
  <div align="center">
 <img width="100%" height = "450px" src="https://github.com/NishikantaRay/Bootstrap-projects/blob/main/image-port/Studytub.png?raw=true" alt="cover" />
 </div>
-</a>
+</a> -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=18&center=true&width=398&height=51&lines=MEAN+STACK+%7C%7C+FRONTEND+%7C%7C+OPENSOURCE+;+First+Successful+Product+-+studytub.ml">
 </p>
