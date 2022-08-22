@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5622AQEPthr0koA0jw/feedshare-shrink_800/0/1660974963996?e=1663804800&v=beta&t=vOoCN7wj3B144MnL6G7RfNXLN2U5pZIsN8t1NCcTVmU" alt="cover" />
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHAnSGX82n-TA/profile-displaybackgroundimage-shrink_350_1400/0/1630005934124?e=1666828800&v=beta&t=WEtToCjMUFlywklhdL2rWgA_pMRHjeafln0tl9aLNug" alt="cover" />
 </p> 
 
 <hr>
