@@ -1,8 +1,8 @@
 
-<img src="https://user-images.githubusercontent.com/62615392/173659691-13e964bd-2232-4c4d-b159-048b0ae4df77.png" alt="cover" />
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=18&center=true&width=398&height=51&lines=MEAN+STACK+%7C%7C+FRONTEND+%7C%7C+OPENSOURCE+;+First+Successful+Product+-+studytub.ml">
-</p> -->
+
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C5622AQEPthr0koA0jw/feedshare-shrink_800/0/1660974963996?e=1663804800&v=beta&t=vOoCN7wj3B144MnL6G7RfNXLN2U5pZIsN8t1NCcTVmU" alt="cover" />
+</p> 
 
 <hr>
 <div align="center">
