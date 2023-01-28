@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishikanta Ray</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+    <div align="center">
+      <a href="https://github.com/NishikantaRay">
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=NishikantaRay&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+      </a>
+    </div>
 <hr>
 
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
@@ -11,15 +16,7 @@
 
 <details>
   <summary><h2>📊 Statistics</h2></summary>
-  <div>
-    <br />
-    <div>
-      <a href="https://github.com/NishikantaRay">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=NishikantaRay&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
-      </a>
-      <br /><br />
-    </div>
-    <div>
+    <div align="center">
        <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishikantaray&theme=radical"/>
 </a>
