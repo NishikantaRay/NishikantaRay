@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Nishikanta Ray</h1>
-<h3 align="left">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nishikanta Ray</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <hr>
 
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
