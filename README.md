@@ -10,6 +10,10 @@
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
 
 - 📫 How to reach me **nishikantaray1@gmail.com**
+- **info@nishikanta.tech**
+- **hireme@nishikanta.tech**
+- **freelancing@nishikanta.tech**
+- **hello@nishikanta.tech**
 
 - 📄 Know about my experiences 
 <a target="_blank" href="https://drive.google.com/file/d/1nWCk4UZkVYwXne105KxaXD3w3T5wBua6/view?usp=share_link">Resume</a>
