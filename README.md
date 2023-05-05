@@ -11,7 +11,6 @@
 
 - 📫 How to reach me 
 - **nishikantaray1@gmail.com**
-- **ece.190410294@silicon.ac.in**
 - **info@nishikanta.tech**
 - **freelancing@nishikanta.tech**
 
