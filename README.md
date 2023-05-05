@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
 
-- 📫 How to reach me **nishikantaray1@gmail.com**
+- 📫 How to reach me 
+- **nishikantaray1@gmail.com**
+-  **ece.190410294@silicon.ac.in**
 - **info@nishikanta.tech**
 - **hireme@nishikanta.tech**
 - **freelancing@nishikanta.tech**
