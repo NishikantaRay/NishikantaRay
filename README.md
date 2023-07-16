@@ -2,14 +2,8 @@
 <hr>
 <h1>My Freelancing Client's</h1>
 <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/1e785d99-7766-4513-852c-cb51751b5f61" alt="Logo 2" >
-<div style="display: flex; justify-content: center;">
-  
-  <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/3115afbe-f2b2-4792-8c63-fe2a1103a4eb" alt="Logo 1" style="width: 200px;margin-right: 20px; ">
-  <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/b2231f5a-16ff-4c68-af79-0f21d13e2a3b" alt="Logo 2" style="width: 200px; margin-right: 20px;">
-   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/2e501c00-cb41-4bd0-ac9d-24ceca8ff51c" alt="Logo 2" style="width: 200px; margin-right: 20px;">
-    <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/d21d3ae7-c28f-4b90-bfb0-b4bf13e66a5d" alt="Logo 2" style="width: 200px; margin-right: 20px;">
-    <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/a94c5fa9-2e05-42f7-beb9-b840561b55c2" alt="Logo 2" style="width: 200px; margin-right: 20px;">
-</div>
+<img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/b14196db-9ce7-41af-91c9-f4a6e19380f5" alt="Logo 2" >
+
 
 
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
