@@ -4,18 +4,6 @@
 <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/1e785d99-7766-4513-852c-cb51751b5f61" alt="Logo 2" >
 <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/b14196db-9ce7-41af-91c9-f4a6e19380f5" alt="Logo 2" >
 
-
-
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
-
-- 📫 How to reach me 
-- **nishikantaray1@gmail.com**
-- **info@nishikanta.tech**
-- **freelancing@nishikanta.tech**
-
-- 📄 Know about my experiences 
-<a target="_blank" href="https://drive.google.com/file/d/1nWCk4UZkVYwXne105KxaXD3w3T5wBua6/view?usp=share_link">Resume</a>
-
 <details>
   <summary><h2>📊 Statistics</h2></summary>
     <div align="center">
