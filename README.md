@@ -6,7 +6,9 @@
    <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/688ac635-6f17-42fb-83a5-29f5c2d3f63c" alt="Logo 2" style="width: 200px; margin-right: 20px;">
   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/3115afbe-f2b2-4792-8c63-fe2a1103a4eb" alt="Logo 1" style="width: 200px;margin-right: 20px; ">
   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/b2231f5a-16ff-4c68-af79-0f21d13e2a3b" alt="Logo 2" style="width: 200px; margin-right: 20px;">
+   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/2e501c00-cb41-4bd0-ac9d-24ceca8ff51c" alt="Logo 2" style="width: 200px; margin-right: 20px;">
 </div>
+
 
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/KiwiFiles">@KiwiFiles</a>
 
