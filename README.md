@@ -1,10 +1,9 @@
-
-
 ![nishikanta](https://github.com/NishikantaRay/NishikantaRay/assets/62615392/74e2a830-c462-41a8-ad01-4b96d3bbd752)
 <hr>
 <h1>My Freelancing Client's</h1>
+<img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/1e785d99-7766-4513-852c-cb51751b5f61" alt="Logo 2" >
 <div style="display: flex; justify-content: center;">
-   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/688ac635-6f17-42fb-83a5-29f5c2d3f63c" alt="Logo 2" style="width: 200px; margin-right: 20px;">
+  
   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/3115afbe-f2b2-4792-8c63-fe2a1103a4eb" alt="Logo 1" style="width: 200px;margin-right: 20px; ">
   <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/b2231f5a-16ff-4c68-af79-0f21d13e2a3b" alt="Logo 2" style="width: 200px; margin-right: 20px;">
    <img src="https://github.com/NishikantaRay/NishikantaRay/assets/62615392/2e501c00-cb41-4bd0-ac9d-24ceca8ff51c" alt="Logo 2" style="width: 200px; margin-right: 20px;">
