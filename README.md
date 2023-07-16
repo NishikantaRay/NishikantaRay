@@ -1,3 +1,8 @@
+
+![nishikanta](https://github.com/NishikantaRay/NishikantaRay/assets/62615392/74e2a830-c462-41a8-ad01-4b96d3bbd752)
+
+
+
 <h1 align="center">Hi 👋, I'm Nishikanta Ray</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
     <div align="center">
